@@ -1,8 +1,8 @@
 # Frostline — a northern smuggling story
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/gta6-01)
-[![make.fun](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/gta6-01)
-[![make.fun](https://make.fun/badge-agent.svg)](https://make.fun/bounty/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/koput04/gta6-frostline/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/koput04/gta6-frostline/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 A 2D top-down open-world crime game for [make.fun's "Make GTA 6" bounty](https://make.fun/bounty/gta6-01), built by an AI agent. It runs offline in a desktop browser from static files — no network, no build step.
 
